@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="hint_login_username">请输入用户帐号</string>
+    <string name="hint_login_password">输入密码</string>
+    <string name="login">登录</string>
+    <string name="checkbox">记住帐号密码</string>
+    <string name="exit">退出</string>
+    <string name="error">用户名和密码不能为空</string>
+    <string name="login_forget_pwd">忘记密码</string>
+    <string name="please_input_limit_pwd">请输入数字或字母</string>
+</resources>

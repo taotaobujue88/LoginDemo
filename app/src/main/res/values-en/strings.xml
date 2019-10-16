@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="hint_login_username">Username</string>
+    <string name="hint_login_password">Password</string>
+    <string name="login">Login</string>
+    <string name="checkbox">Remember</string>
+    <string name="exit">Exit</string>
+    <string name="error">NoNUll</string>
+    <string name="login_forget_pwd">Forget</string>
+    <string name="please_input_limit_pwd">Please enter number and string!</string>
+    <string name="app_name">LoginDemo</string>
+</resources>
